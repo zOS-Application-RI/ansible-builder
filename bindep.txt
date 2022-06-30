@@ -2,4 +2,5 @@
 # see https://docs.openstack.org/infra/bindep/ for additional information.
 
 git
-python38-wheel [platform:centos-8 platform:rhel-8]
+python310-wheel 
+#[platform:centos-8 platform:rhel-8]
